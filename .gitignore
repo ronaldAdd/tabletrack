@@ -6,7 +6,6 @@
 /storage/*.key
 /vendor
 vendor/
-
 .env.backup
 .env.production
 .phpactor.json
@@ -31,7 +30,6 @@ public/user-uploads/public/hot
 
 /storage/installed
 ngrok
-
 froiden-verify/
 *.zip
 .DS_Store
